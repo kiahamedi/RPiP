@@ -1,5 +1,5 @@
 # RPiP
-bash Script for find raspberry pi address on local network
+bash Script for find raspberry pi address on local network for ssh or vnc
 
 
 # usage
