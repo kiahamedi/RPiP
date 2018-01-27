@@ -7,7 +7,7 @@ To use, just download the script and treat it like a script Enough if you do not
 (chmod +x iprpi.sh) 
 
 And run it using the following command:
-(./iprpi.sh)
+(sudo ./iprpi.sh)
 
 [MySite link](http://kiahamedi.ir/)
 
